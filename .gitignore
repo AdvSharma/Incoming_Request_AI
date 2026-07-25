@@ -1,0 +1,6 @@
+incoming_env/
+venv/
+.env
+__pycache__/
+*.pyc
+database/requests.db
